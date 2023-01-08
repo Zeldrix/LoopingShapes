@@ -9,11 +9,11 @@ mediaAUpluoad = arguments[2]
 
 
 #Identifiants API
-API_KEY = 'AzD3qCpQN149KOw6TVCcuJkoe'
-API_secret = '1HYnCcFBnseQwV91LgYzjAVlTbULsuqqWtXddJOz3VHnEeWIzr'
-BAERER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAACRBZgEAAAAAZvzFyA3hzrgViW4abN8vF52TcK0%3DTTWRQR4VqEXrrXGonP8alLAiZJ40ywRaipbFcEcLlKiOdShVXr'
-access_token = '1496555250018402304-P5qxVb6MCjXerOOPmmQL7MIhNRCQUl'
-access_token_secret = 'u5SXlRhkMcXCijWcBCiv8NTNyl8GlLxXJrcjkDphwCw7S'
+API_KEY = ''
+API_secret = ''
+BAERER_TOKEN = ''
+access_token = ''
+access_token_secret = ''
 
 #Connexion API
 auth = tweepy.OAuthHandler(API_KEY, API_secret)
